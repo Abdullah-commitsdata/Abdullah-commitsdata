@@ -19,11 +19,14 @@ Despite largely stable demand, emissions fell significantly—driven by renewabl
 
 ## 📉 1️⃣ NEM Emission & Demand Trends (2019–2025)
 
-![NEM Emissions Trend] <img width="294" height="162" alt="image" src="https://github.com/user-attachments/assets/abe92a7e-bd25-408e-b58e-9cdb4fccc992" />
+![NEM Emissions Trend] 
+<img width="294" height="162" alt="image" src="https://github.com/user-attachments/assets/abe92a7e-bd25-408e-b58e-9cdb4fccc992" />
 
-![NEM Demand Trend] <img width="294" height="163" alt="image" src="https://github.com/user-attachments/assets/e2df1a46-6842-460b-ba70-9d783e434309" />
+![NEM Demand Trend]
+<img width="294" height="163" alt="image" src="https://github.com/user-attachments/assets/e2df1a46-6842-460b-ba70-9d783e434309" />
 
-![NEM Emission Intensity] <img width="283" height="163" alt="image" src="https://github.com/user-attachments/assets/79b63c3e-c941-44bd-b39f-9ea6f91e4b47" />
+![NEM Emission Intensity] 
+<img width="283" height="163" alt="image" src="https://github.com/user-attachments/assets/79b63c3e-c941-44bd-b39f-9ea6f91e4b47" />
 
 
 **Key Insight**
