@@ -19,15 +19,9 @@ Despite largely stable demand, emissions fell significantly—driven by renewabl
 
 ## 📉 1️⃣ NEM Emission & Demand Trends (2019–2025)
 
-![NEM Emissions Trend] 
-<img width="294" height="162" alt="image" src="https://github.com/user-attachments/assets/abe92a7e-bd25-408e-b58e-9cdb4fccc992" />
-
-![NEM Demand Trend] 
-<img width="294" height="163" alt="image" src="https://github.com/user-attachments/assets/e2df1a46-6842-460b-ba70-9d783e434309" />
-
-![NEM Emission Intensity] 
-<img width="283" height="163" alt="image" src="https://github.com/user-attachments/assets/79b63c3e-c941-44bd-b39f-9ea6f91e4b47" />
-
+![NEM Emissions Trend](images/nem_emissions_trend.png)
+![NEM Demand Trend](images/nem_demand_trend.png)
+![NEM Emission Intensity](images/nem_intensity_trend.png)
 
 **Key Insight**
 - Emission intensity declined from **0.76 → 0.62 kg/kWh (~18% reduction)**
@@ -151,19 +145,3 @@ Macquarie University
 
 ## 📄 License
 Open for academic and research reference.
-
-
-<!--
-**Abdullah-commitsdata/Abdullah-commitsdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
