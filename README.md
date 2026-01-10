@@ -72,13 +72,18 @@ Despite largely stable demand, emissions fell significantly—driven by renewabl
 
 ## ⏰ 3️⃣ Intra-Daily Carbon Intensity Patterns
 ### NEM Average Daily Emission Curve
-![NEM Daily Emission Curve](images/nem_daily_curve.png)
+
+<img width="430" height="300" alt="image" src="https://github.com/user-attachments/assets/748b22a3-7d49-46f0-9b48-9a95534443af" />
+
 
 ### Regional Intra-Day Curves
-![Regional Intra Day Curves](images/regional_intraday_curves.png)
+<img width="400" height="322" alt="image" src="https://github.com/user-attachments/assets/563e2810-a6c2-4946-9334-3452ca9f62ee" />
+<img width="540" height="577" alt="image" src="https://github.com/user-attachments/assets/e25d9ee3-5ed7-41f7-a51a-0d7a24b5393d" />
 
 ### Seasonal Curves
-![Seasonal Emission Curves](images/seasonal_emissions.png)
+<img width="314" height="236" alt="image" src="https://github.com/user-attachments/assets/3054c28a-2ecd-4895-87aa-b55a674dab31" />
+<img width="314" height="234" alt="image" src="https://github.com/user-attachments/assets/b2a389df-caf9-454b-9f5c-815924b1d964" />
+<img width="334" height="273" alt="image" src="https://github.com/user-attachments/assets/035030bb-6d9c-462c-bffe-a017903f7df3" />
 
 **Insight**
 - Strong **midday emission dip** due to solar
@@ -89,9 +94,11 @@ Despite largely stable demand, emissions fell significantly—driven by renewabl
 
 ## 🏠 vs 🏢 4️⃣ Household vs Company Emissions
 
-![Household vs Business Emissions](images/household_vs_business.png)
-![Monthly Comparison](images/monthly_breakdown.png)
-![Peak Emission Comparison](images/peak_analysis.png)
+![Household vs Business Emissions] <img width="348" height="210" alt="image" src="https://github.com/user-attachments/assets/d9827573-94f3-4dad-ab69-ab6989df2903" />
+
+![Monthly Comparison] <img width="468" height="233" alt="image" src="https://github.com/user-attachments/assets/4f317cec-4cbe-400c-86c0-a97699d55c9b" />
+
+![Peak Emission Comparison] <img width="306" height="235" alt="image" src="https://github.com/user-attachments/assets/e961d439-bc5c-4370-a32b-801a3f470ed0" />
 
 **Outcome**
 - Companies consume mostly in sunlight hours → **lower emission exposure**
@@ -103,13 +110,17 @@ Despite largely stable demand, emissions fell significantly—driven by renewabl
 ## ⚙️ 5️⃣ Generator Bidding & Price Behaviour
 
 ### Market Share Changes
-![Market Share Shift](images/market_share_shift.png)
+![Market Share Shift]
+<img width="468" height="279" alt="image" src="https://github.com/user-attachments/assets/88ac1509-f333-4f56-98ca-cb97d6cfc887" />
 
 ### Supply Curves (2019 vs 2025)
-![Supply Curve](images/supply_curve_comparison.png)
+![Supply Curve]
+<img width="333" height="580" alt="image" src="https://github.com/user-attachments/assets/54186bce-d400-43e6-b0e9-51199dfe3a10" />
 
 ### Bidding Price Distribution
-![Bidding Quantiles](images/bid_quantiles.png)
+![Bidding Quantiles]
+<img width="468" height="219" alt="image" src="https://github.com/user-attachments/assets/f38e0c4b-4a7b-4645-a0f6-4538cf8c0a7b" />
+
 
 **Behaviour Summary**
 - 🌞 Solar bids at low/negative prices → floods midday supply
