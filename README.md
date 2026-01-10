@@ -19,10 +19,19 @@ Despite largely stable demand, emissions fell significantly—driven by renewabl
 
 ## 📉 1️⃣ NEM Emission & Demand Trends (2019–2025)
 
-![NEM Emissions Trend](<img width="294" height="162" alt="image" src="https://github.com/user-attachments/assets/e84d483d-e597-4f50-821e-9d53c4394dc5" />
-)
-![NEM Demand Trend](images/nem_demand_trend.png)
-![NEM Emission Intensity](images/nem_intensity_trend.png)
+**NEM Emissions Trend:**
+
+<img width="294" height="162" alt="image" src="https://github.com/user-attachments/assets/e84d483d-e597-4f50-821e-9d53c4394dc5" />
+
+**NEM Demand Trend:**
+
+<img width="294" height="163" alt="image" src="https://github.com/user-attachments/assets/3d60f0b6-1d6f-4b16-8e3e-e770c6d5f952" />
+
+
+**NEM Emission Intensity:**
+
+<img width="283" height="163" alt="image" src="https://github.com/user-attachments/assets/9d53e633-0aa0-4f9b-9adf-92e3bfd115c0" />
+
 
 **Key Insight**
 - Emission intensity declined from **0.76 → 0.62 kg/kWh (~18% reduction)**
@@ -34,19 +43,25 @@ Despite largely stable demand, emissions fell significantly—driven by renewabl
 ## 🗺️ 2️⃣ Regional Emission Performance
 
 ### New South Wales (NSW)
-![NSW Trends](images/nsw_trends.png)
+<img width="608" height="498" alt="image" src="https://github.com/user-attachments/assets/fa7a7a5c-258f-4e1c-972b-56e1510fb7f5" />
+
 
 ### Queensland (QLD)
-![QLD Trends](images/qld_trends.png)
+<img width="611" height="510" alt="image" src="https://github.com/user-attachments/assets/11e380e4-ee55-4a3c-9430-2681ed9a3a7d" />
+
 
 ### Victoria (VIC)
-![VIC Trends](images/vic_trends.png)
+<img width="602" height="488" alt="image" src="https://github.com/user-attachments/assets/3b859a1a-d210-46d0-8e90-c4bb0c280606" />
+
 
 ### South Australia (SA)
-![SA Trends](images/sa_trends.png)
+<img width="604" height="313" alt="image" src="https://github.com/user-attachments/assets/8632cc33-4f40-442c-9850-81f3407ddb63" />
+
 
 ### Tasmania (TAS)
-![TAS Trends](images/tas_trends.png)
+<img width="610" height="315" alt="image" src="https://github.com/user-attachments/assets/ae9a403a-c073-4547-b5ab-e98541cc92cf" />
+
+
 
 **Summary**
 - 🟢 SA & TAS lead decarbonisation
